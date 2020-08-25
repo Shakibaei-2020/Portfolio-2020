@@ -1,0 +1,115 @@
+.view {
+    background-color:#232937;
+    background-size: cover;
+
+}
+.navbar{
+	background-color:#232937;
+	position:fixed;
+	z-index: 3;
+}
+
+
+html,
+body,
+header,
+.view {
+	   background-size: cover;
+  height: 60px;
+  position: relative;
+  z-index: 1;
+
+
+}
+header{
+	position: fixed;
+}
+
+.D1{
+	width: 100%;
+
+}
+
+.D2{
+	padding-left:-10%;
+}
+
+
+
+.I1{
+	height: 115px;
+	margin-left: 63%;
+	 
+}
+
+
+
+.T1{
+	background-color:#36373A;
+	font-size:20px;
+	padding-left:40%;
+	color:white;
+
+}
+.T2{
+	background-color:#36373A;
+	padding-left:35%;
+	font-size:20px;
+	
+	color:white;
+}
+
+.T3{
+	background-color:#36373A;
+	padding-left:35%;
+	font-size:20px;
+	color:white;
+}
+
+.T4{
+	background-color:#36373A;
+	padding-left:35%;
+font-size:20px;
+	color:white;
+}
+
+.T5{
+	margin-left: 68%;
+}
+
+.T6{
+	background-color:#36373A;
+	padding-left:43%;
+font-size:20px;
+	color:white;
+}
+
+.T7{
+	background-color:#36373A;
+	padding-left:20%;
+font-size:20px;
+	color:white;
+}
+
+.T8{
+	background-color:#36373A;
+	padding-left:28%;
+font-size:20px;
+	color:white;
+}
+
+.T9{
+	background-color:#36373A;
+	padding-left:42%;
+font-size:20px;
+	color:white;
+}
+
+
+
+
+
+footer{
+	color:white;
+	   background-color:#232937;
+}
